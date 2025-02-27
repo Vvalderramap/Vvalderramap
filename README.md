@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Vanessa Valderrama 🌼!</h1>
-<h3 align="center">Economista 📈 | Especialista de Estadística Aplicada 🔮 |  Data Analyst Jr. 📊 | </h3>
+<h3 align="center">Economista 📈 | Especialista en Estadística Aplicada 🔮 |  Data Analyst Jr. 📊 | </h3>
 ---
 
 ### 🌟 Sobre Mí
