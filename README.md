@@ -1,13 +1,14 @@
 <h1 align="center">¡Hola, soy Vanessa Valderrama 🌼!</h1>
 <h3 align="center">Economista 📈 | Especialista de Estadística Aplicada 🔮 |  Data Analyst Jr. 📊 | </h3>
-
 ---
 
 ### 🌟 Sobre Mí
+Tengo 2+ años de experiencia utilizando datos para impulsar la toma de decisiones estratégicas y optimizar continuamente los resultados en proyectos de análisis de datos
 - 💡 Apasionada por el análisis de datos, estadísticas y modelos predictivos.
 - 🛠️ Trabajo con **Python, SQL, Excel, Power BI** y **R**.
 - 🚀 Actualmente explorando **Machine Learning y Data Science**.
 
+  
 ---
 
 ### 📌 Tecnologías y Herramientas
