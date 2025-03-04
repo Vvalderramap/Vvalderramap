@@ -23,7 +23,7 @@ Tengo 2+ años de experiencia utilizando datos para impulsar la toma de decision
 ---
 
 ### 📈 Últimos Proyectos
-1. 🕸 **Web Scraping con Python** - [Ver en GitHub](https://github.com/tuusuario/webscraping)
+1. 🕸 **ETL con Python** - [Ver en GitHub](https://github.com/Vvalderramap/Vvalderramap/blob/main/Pyhton%20projects%20/RM/Revenue_Analysis%20(1).ipynb)
 2. 📊 **Análisis de Datos con SQL** - [Ver en GitHub](https://github.com/tuusuario/sql-analysis)
 3. 🤖 **Modelo Predictivo de Ventas** - [Ver en GitHub](https://github.com/tuusuario/sales-prediction)
 
