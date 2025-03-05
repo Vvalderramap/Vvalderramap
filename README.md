@@ -23,7 +23,7 @@ Tengo 2+ años de experiencia utilizando datos para impulsar la toma de decision
 ---
 
 ### 📈 Últimos Proyectos
-1. 🕸 **Predicción de Tarifas Hotelera (ADR) con Machine Learning** - [Ver en GitHub](https://github.com/Vvalderramap/Vvalderramap/blob/main/Pyhton%20projects%20/RM/Revenue_Analysis%20(2).ipynb)
+1. 🕸 **Predicción de Tarifa Promedio (ADR) con Machine Learning** - [Ver en GitHub](https://github.com/Vvalderramap/Vvalderramap/blob/main/Pyhton%20projects%20/RM/Revenue_Analysis%20(2).ipynb)
 
 ---
 
