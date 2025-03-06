@@ -23,7 +23,7 @@ Poseo más de 2 años de experiencia transformando datos en información valiosa
 ---
 
 ### 📈 Últimos Proyectos
-1. 🕸 **Predicción de Tarifa Promedio (ADR) con Machine Learning** - [Ver en GitHub](https://github.com/Vvalderramap/Vvalderramap/blob/main/Pyhton%20projects%20/RM/Revenue_Analysis%20(2).ipynb)
+1. 🕸 **Predicción de Tarifa Promedio (ADR) con Machine Learning** - [Ver en GitHub](https://github.com/Vvalderramap/Vvalderramap/tree/main/Revenue%20Analysis%20)
 
 ---
 
