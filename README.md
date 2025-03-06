@@ -2,7 +2,7 @@
 <h3 align="center">Economista 📈 | Especialista en Estadística Aplicada 🔮 |  Data Analyst Jr. 📊 | </h3>
 
 ### 🌟 Sobre Mí
-Poseo más de 2 años de experiencia transformando datos en información valiosa para optimizar la toma de decisiones estratégicas y mejorar la eficiencia en procesos de análisis de datos.
+Tengo más de 2 años de experiencia transformando datos en información valiosa para optimizar la toma de decisiones estratégicas y mejorar la eficiencia en procesos de análisis de datos.
 - 💡 Apasionada por el análisis de datos, estadísticas y modelos predictivos.
 - 🛠️ Trabajo con **Python, SQL, Excel, Power BI** y **R**.
 - 🚀 Actualmente explorando **Machine Learning y Data Science**.
